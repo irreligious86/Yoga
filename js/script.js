@@ -11,7 +11,7 @@ function hideTabContent(a) {
         tabContent[i].classList.remove('show');
         tabContent[i].classList.add('hide');
     }
-};
+} ;
 
 hideTabContent(1);
 
